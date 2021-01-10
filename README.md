@@ -1,6 +1,6 @@
 # Hi, I'm Oguzhan 👋
 
-## Software Developer
+### Software Developer
 
 :iphone: Trying to get better at Mobile Application Development.
 
