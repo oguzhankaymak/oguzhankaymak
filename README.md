@@ -6,10 +6,7 @@
 
 :call_me_hand: I work all time for improve myself so I joining Hackathons, various activity and courses.
 
-:memo:
-:pencil: Writing blog posts when I have free time.<br/> <br/>
-
-## I used
+:memo: Writing blog posts when I have free time.<br/> <br/>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhankaymak&layout=compact" alt="oguzhankaymak" /></p>
 <br/>
