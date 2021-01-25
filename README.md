@@ -6,7 +6,7 @@
 
 :call_me_hand: I work all time for improve myself so I joining Hackathons, various activity and courses.
 
-:memo: Writing blog posts when I have free time.<br/> <br/>
+:memo: Writing blog posts when I have free time.
 
 <p align="left"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img height="35" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png"/>
