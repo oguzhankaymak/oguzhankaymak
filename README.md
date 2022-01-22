@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **iOS Development (Swift, SwiftUI)**
 
-- 📝 I write articles on [oguzhankaymak.net](https:oguzhankaymak.net)
+- 📝 I write articles on [oguzhankaymak.net](https://www.oguzhankaymak.net)
 
 - 📫 How to reach me **oguzhankaymakdev@gmail.com**
 
