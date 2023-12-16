@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🔭 I’m currently working at **Innovance Consultancy**
+- 🔭 I’m currently working at **Trendyol**
 
 - 📝 I write articles on [oguzhankaymak.net](https://www.oguzhankaymak.net)
 
